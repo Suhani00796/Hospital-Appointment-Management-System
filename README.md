@@ -19,6 +19,6 @@ git clone https://github.com/your-username/your-repository-name.git
 3. Configure Database Connection
 * Update the database credentials (URL, username, password) in the project's configuration file.
 4. Build and Run
-Open the project in your IDE (like IntelliJ or Eclipse).
-Let Maven build the project and download dependencies.
-Run the application from the main class.
+* Open the project in your IDE (like IntelliJ or Eclipse).
+* Let Maven build the project and download dependencies.
+* Run the application from the main class.
